@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/excel-formula-guide/static/js/main.60cecbea.js",
+    "main.js": "/excel-formula-guide/static/js/main.12c53ce8.js",
     "index.html": "/excel-formula-guide/index.html",
-    "main.60cecbea.js.map": "/excel-formula-guide/static/js/main.60cecbea.js.map"
+    "main.12c53ce8.js.map": "/excel-formula-guide/static/js/main.12c53ce8.js.map"
   },
   "entrypoints": [
-    "static/js/main.60cecbea.js"
+    "static/js/main.12c53ce8.js"
   ]
 }
